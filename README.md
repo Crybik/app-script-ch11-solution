@@ -6,20 +6,20 @@ cd /dev/shm <br>
 or  <br>
 cd /tmp  <br>
 wget the file or make a new file  <br>
-touch crybaby.sh
+touch crybaby.sh  <br>
 Paste the code & Save  <br>
 then when you're finished you need to run it but you have to give it some permssions so we type  <br>
-chmod 777 crybaby.sh
-And then we run it
-./crybaby.sh
+chmod 777 crybaby.sh  <br>
+And then we run it  <br>
+./crybaby.sh  <br>
 The result will be  <br>
-==========================================
-Crybik's Solution The password is :
-!oPe96a/.s8d5
-==========================================
-The commands
-cd /tmp
-touch crybaby.sh
-chmod 777 crybaby.sh
-./crybaby.sh
+==========================================  <br>
+Crybik's Solution The password is :  <br>
+!oPe96a/.s8d5  <br>
+==========================================  <br>
+The commands  <br>
+cd /tmp  <br>
+touch crybaby.sh  <br>
+chmod 777 crybaby.sh  <br>
+./crybaby.sh  <br>
 </h5>
